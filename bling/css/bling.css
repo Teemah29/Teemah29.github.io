@@ -1,0 +1,55 @@
+.social_media{
+	left:0px;
+	bottom:0;
+	width:100%;
+	text-align:center;
+}
+*{
+	margin:0px;
+	padding:0px;
+}
+h5{
+	font:bold 20px tahoma;
+	color:Red;
+}
+h3{
+	font:bold 20px italics;
+	text-align:center;
+}
+h7{
+	font:bold 13px tahoma;
+}
+header, footer, section, aside, nav, article, hgroup{
+	display:block;
+}
+body{
+	text-align:center;
+}
+#myheader{
+	padding:20px;
+	text-align:center;
+	background:red;
+	color:black;
+	font:bold 25px tahoma;
+}
+#idnav{
+	background:black;
+	color:white;
+}
+#idnav li{
+	display:inline-block;
+	padding:15px;
+	display:bold 20px tahoma;
+}
+.logo{
+	width:960px;
+	height:148px;
+	text-align:center;
+}
+#contact{
+	padding:20px;
+}
+#aside{
+	background:black;
+	color:white;
+}
